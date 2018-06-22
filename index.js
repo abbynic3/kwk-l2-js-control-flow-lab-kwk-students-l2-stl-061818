@@ -12,11 +12,14 @@ function scuberGreetingForFeet(distance) {
     return 'No can do.'
   }
 }
+
 function ternaryCheckCity(city) {
   if (city = 'NYC' && city <= 'Pittsburgh') {
     return 'Ok, sounds good.'
   }
-  else if (city = 'Pittsburgh') {
+  else if (city = 'Not NYC') {
     return 'No go.'
   }
 }
+
+function 
