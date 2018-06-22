@@ -2,7 +2,7 @@
 
 
 function scuberGreetingForFeet(distance);
-  if (distance > 2500) {
+  if (distance <= 400) {
     travel = 'No ride';
   }
 }
