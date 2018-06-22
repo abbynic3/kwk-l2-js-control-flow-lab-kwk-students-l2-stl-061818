@@ -12,4 +12,6 @@ function scuberGreetingForFeet(distance) {
     return 'No can do.'
   }
 }
-function ternaryCheckCity()
+function ternaryCheckCity(bigCity) {
+  if ()
+}
