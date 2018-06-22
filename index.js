@@ -22,4 +22,4 @@ function ternaryCheckCity(city) {
   }
 }
 
-function 
+
