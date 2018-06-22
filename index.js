@@ -13,7 +13,7 @@ function scuberGreetingForFeet(distance) {
   }
 }
 function ternaryCheckCity(city) {
-  if (city = 'NYC' && city >= 'Pittsburgh') {
+  if (city = 'NYC' && city = 'Pittsburgh') {
     return 'Ok, sounds good.'
   }
   else if (city = 'Pittsburgh') {
